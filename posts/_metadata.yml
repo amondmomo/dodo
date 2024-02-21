@@ -16,7 +16,6 @@ notebook-links: true
 cap-location: margin
 reference-location: margin
 citation-location: margin
-bibliography: ref.bib
 
 format:
   html:
