@@ -16,14 +16,14 @@
   {
     "objectID": "posts/day1/클래스 공부 (1).html",
     "href": "posts/day1/클래스 공부 (1).html",
-    "title": "클래스 공부 (1)",
+    "title": "Class 공부 (1)",
     "section": "",
     "text": "#1 클래스 선언\n\n클래스의 이름은 대문자로 설정\n\n\n# 예시\nclass Klass:\n    pass"
   },
   {
     "objectID": "posts/day1/클래스 공부 (1).html#클래스-공부-1",
     "href": "posts/day1/클래스 공부 (1).html#클래스-공부-1",
-    "title": "클래스 공부 (1)",
+    "title": "Class 공부 (1)",
     "section": "",
     "text": "#1 클래스 선언\n\n클래스의 이름은 대문자로 설정\n\n\n# 예시\nclass Klass:\n    pass"
   },
